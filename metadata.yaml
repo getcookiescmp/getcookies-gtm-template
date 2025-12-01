@@ -1,0 +1,13 @@
+homepage: "https://getcookies.co"
+documentation: "https://getcookies.co/help/gtm-installation"
+versions:
+  - sha: main
+    changeNotes: |
+      Initial release of GetCookies CMP template.
+      - Full Google Consent Mode v2 support
+      - Sets default consent state before any tags fire
+      - Reads existing consent from localStorage
+      - Real-time consent updates from cookie banner
+      - Supports all consent types (ad_storage, ad_user_data, ad_personalization, analytics_storage, etc.)
+      - URL passthrough and ads data redaction options
+      - Configurable default consent states per category
