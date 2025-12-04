@@ -22,7 +22,7 @@ ___INFO___
   "brand": {
     "id": "getcookies",
     "displayName": "GetCookies",
-    "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADaklEQVR4nO2Zz2sTQRTHv7tJ2kRt1Vov4kHBgwdBPHjQi+BF8OLBf8GLiP+AePCgB0Uv4sGDBy9SrYq1rVattdZWq62ttbZWa2t/xCSb7GR3ZvY5O8lusqE0yXYzM+/zeW9mNwkAoYSCAoqARAKJgMQCEgWIMiYJgFEYgxgLMQaiAIkGYgHEBRALIBZALIBYALGAagLoJWJCgDjKb2DmYiMGrxTgzPUGnLveQO6+KhZCgBTdwPMTZ3D9xBmc/aoVc98VqxACJOkG/nwxCqtn53D17BwOPmzDwaUGYgGJBwYvNeC3p824dEYpX70Sk1AARIAHDQgOAvk7oYBgIHDl7FwZAXUQCogWQgNR4RsIQBkB9RYKiI4EHyAUEI0EPoBYQLIEBIATSyRgPIlTb12A808bcPFpA6682oBLzzABwiKhgGghNBAVvgEBwuIbCAAZAfUWCogOBN7y+3U4+bQBR0vA0ZIKIBYQLQkBwuI3UIDa+AYCCApECiEBiQIkzC/EbyCAdwLyF2IBxAKIBRALIBZALIBYALEAYgHVBND1hJgQIM7qG5i5WA+Dr2dxdaEeZy7W4+yleuK+KxZCgBTdwHP2MDh7sR4HL9Tg4EINuXuqWAgBUnQDv1+IqYfBs4tV+NdCTEIBEAHuNCA4COTuhAKCgcD5i1UlBFRBKCBaCA1Ehc9AAcoIqLdQQHQk+AChgGgk8AHEApIlIACcWCIB4ymc+skFOHu5BhefqMHJ5RpiASQikYDxJA6ddQHOPa7BxYe1OLhUgwPLKoBYQLQkBAiLXwcBauEbCCAoECmEBCQKkAi/EL+BABY+QPoCwgKIBRALIBZALIBYALEAYgHEAqoJoOsJMSFAnNU3MHOxBgbPrsTZhRqcvVhD3HfFQgiQoht4zh4EZy/U4OD5ahy8UI2LT6pZCAFSdAPfWYjJg+DsQjX+tRCTUABEgDsNCA4C+TuhgGAgcO5CdQkBVRAKiBZCA1HhMyhAGQH1FgqIjgQfIBQQjQQ+gFhAsgQEgBNLJGA8hVM/uwBnl6px/rEaHF+qJhaARCQSMJ7EobMOwLnHajh/vhYHF2qxf0kFEAuIloQAYfHrIEAtfAMBBAUihZCARAES4RfiNxDAwgdIX0BYALEA/gBbOVR3/XCjIgAAAABJRU5ErkJggg=="
+    "thumbnail": "data:image/png;base64,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"
   },
   "containerContexts": [
     "WEB"
@@ -375,12 +375,15 @@ setInWindow('__GetCookiesGTM', {
   }
 }, true);
 
-// Build the widget script URL
-const scriptUrl = 'https://getcookies.co/api/v1/widget/loader.js';
+// Set domain ID as global variable so widget.js can read it
+setInWindow('__GETCOOKIES_DOMAIN_ID', domainId, true);
+
+// Build the loader script URL with domain ID
+const scriptUrl = 'https://api.getcookies.co/api/v1/widget/loader.js?id=' + domainId;
 
 // Inject the GetCookies widget script
 injectScript(scriptUrl, function() {
-  logToConsole('GetCookies: Widget loaded successfully');
+  logToConsole('GetCookies: Widget loaded successfully for domain ' + domainId);
   data.gtmOnSuccess();
 }, function() {
   logToConsole('GetCookies: Failed to load widget script');
@@ -410,6 +413,10 @@ ___WEB_PERMISSIONS___
               {
                 "type": 1,
                 "string": "https://api.getcookies.co/*"
+              },
+              {
+                "type": 1,
+                "string": "https://getcookies.co/static/*"
               }
             ]
           }
@@ -783,6 +790,45 @@ ___WEB_PERMISSIONS___
                   {
                     "type": 1,
                     "string": "__GetCookiesGTM"
+                  },
+                  {
+                    "type": 8,
+                    "boolean": true
+                  },
+                  {
+                    "type": 8,
+                    "boolean": true
+                  },
+                  {
+                    "type": 8,
+                    "boolean": false
+                  }
+                ]
+              },
+              {
+                "type": 3,
+                "mapKey": [
+                  {
+                    "type": 1,
+                    "string": "key"
+                  },
+                  {
+                    "type": 1,
+                    "string": "read"
+                  },
+                  {
+                    "type": 1,
+                    "string": "write"
+                  },
+                  {
+                    "type": 1,
+                    "string": "execute"
+                  }
+                ],
+                "mapValue": [
+                  {
+                    "type": 1,
+                    "string": "__GETCOOKIES_DOMAIN_ID"
                   },
                   {
                     "type": 8,
