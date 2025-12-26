@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "GetCookies CMP",
-  "description": "GetCookies is a Consent Management Platform (CMP) that helps make your use of cookies and online tracking compliant with GDPR, CCPA, and other privacy regulations. Includes full Google Consent Mode v2 support.",
+  "description": "Cookie consent banner with full Google Consent Mode v2 support. GDPR, CCPA, and ePrivacy compliant.",
   "categories": [
     "TAG_MANAGEMENT",
     "PERSONALIZATION"
@@ -293,7 +293,7 @@ if (consentModeEnabled) {
   // Set URL passthrough and developer ID
   gtagSet({
     'url_passthrough': urlPassthrough,
-    'developer_id.dGetCookies': true
+    'developer_id.dODAxZj': true
   });
 
   // Set default consent state (before any tags fire)
@@ -742,7 +742,7 @@ ___WEB_PERMISSIONS___
               },
               {
                 "type": 1,
-                "string": "developer_id.dGetCookies"
+                "string": "developer_id.dODAxZj"
               }
             ]
           }
