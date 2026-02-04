@@ -1,7 +1,7 @@
 homepage: "https://getcookies.co"
 documentation: "https://getcookies.co/help/gtm-installation"
 versions:
-  - sha: main
+  - sha: b74b9ef45c3e8cd18249f32b29cd9b25982370d6
     changeNotes: |
       Initial release of GetCookies CMP template.
       - Full Google Consent Mode v2 support
